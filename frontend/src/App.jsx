@@ -13,9 +13,9 @@ import UserSettings from './components/UserSettings';
 import TodayPlan from './components/TodayPlan';
 import DailyGoalPrompt from './components/DailyGoalPrompt';
 import FileUploader from './components/FileUploader';
-import {
-  DailyReminder, AIStudySuggestions, FocusMusicPlayer,
-} from './components/SmartFeatures';
+import DailyReminder from './components/DailyReminder';
+import AIStudySuggestions from './components/AIStudySuggestions';
+import FocusMusicPlayer from './components/FocusMusicPlayer';
 import './index.css';
 
 const THEMES = {
